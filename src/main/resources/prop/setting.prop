@@ -8,6 +8,8 @@ px.submission.tool.height = 750
 
 # url for retrieving pride user details
 pride.user.detail.url = http://www.proteomexchange.org/archive-submission-ws/submission/user
+# new url for retrieving pride user details
+pride.user.detail.url.new = http://localhost:9020/users
 
 # url for retrieving px ftp upload details
 px.upload.detail.url = http://www.proteomexchange.org/archive-submission-ws/submission/upload/{method}
